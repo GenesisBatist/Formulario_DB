@@ -1,0 +1,1 @@
+Para este proyecto se utilizo XAMPP para la conexion con PHP y MYSQL
